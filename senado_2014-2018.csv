@@ -1,62 +1,62 @@
-"nombre","camara","genero","fecha_nacimiento","nivel_educativo","partido","estado","comision_constitucional","circunscripción","correo","twitter","pagina_web","codigo_dane","profesion"
-"Manuel Enríquez Rosero","Senado","Masculino","24/12/1958","maestría","PARTIDO DE LA UNIDAD SOCIAL","inactivo","1","NARIÑO","oficinamanuel1@yahoo.es","","","2611","Abogado"
-"Juan Manuel Galan","Senado","Masculino","29/07/1972","maestría","PARTIDO LIBERAL COLOMBIANO","inactivo","1","BOGOTÁ","","juanmanuelgalan","","2633","Politólogo"
-"Viviane Aleyda Morales Hoyos","Senado","Femenino","17/03/1962","","PARTIDO LIBERAL COLOMBIANO","inactivo","1","BOGOTÁ","","","","2611","Abogado"
-"Horacio Serpa Uribe","Senado","Masculino","04/01/1943","","PARTIDO LIBERAL COLOMBIANO","inactivo","1","SANTANDER","","HoracioSerpa","","2611","Abogado"
-"Hernan Francisco Andrade Serrano","Senado","Masculino","07/05/1960","especialización","PARTIDO CONSERVADOR COLOMBIANO","inactivo","1","HUILA","","","","2611","Abogado"
-"Roberto Gerlein","Senado","Masculino","","especialización","PARTIDO CONSERVADOR COLOMBIANO","inactivo","1","ATLÁNTICO","","","","2611","Abogado"
-"Claudia Nayibe López Hernandez","Senado","Femenino","09/03/1970","doctorado","PARTIDO ALIANZA VERDE","inactivo","1","BOGOTÁ","","ClaudiaLopez","","2633","Politólogo"
-"Doris Clemencia Vega Quiroz","Senado","Femenino","25/12/1959","","PARTIDO OPCIÓN CIUDADANA","inactivo","1","SANTANDER","","","","2622","Bibliotecólogo"
-"Jaime Alejandro Amín Hernandez","Senado","Masculino","","especialización","PARTIDO CENTRO DEMOCRÁTICO","inactivo","1","ATLÁNTICO","","JaimeAminH","","2611","Abogado"
-"Alfredo Rangel Suarez","Senado","Masculino","","maestría","PARTIDO CENTRO DEMOCRÁTICO","inactivo","1","BOGOTÁ","","","","2631","Economista"
-"William Jimmy Chamorro","Senado","Masculino","07/12/1963","Doctorado","PARTIDO DE LA UNIDAD SOCIAL","inactivo","2","VALLE DEL CAUCA","","","https://jimmychamorro.com/","2114","Geofísico"
-"Oscar Mauricio Lizcano","Senado","Masculino","12/08/1976","maestría","PARTIDO DE LA UNIDAD SOCIAL","inactivo","2","CALDAS","","MauricioLizcano","","2611","Abogado"
-"Carlos Fernando Galán Pachon","Senado","Masculino","04/06/1977","maestría","PARTIDO CAMBIO RADICAL","inactivo","2","BOGOTÁ","","CarlosFGalan","","2642","Periodista"
-"Teresita Garcia Romero","Senado","Femenino","11/11/1956","especialización","PARTIDO OPCIÓN CIUDADANA","inactivo","2","SUCRE","","teregarsenado","","2511","Ingeniero de sistemas"
-"León Rigoberto Barón Neira","Senado","Masculino","","especialización","PARTIDO CENTRO DEMOCRÁTICO","inactivo","2","BOYACÁ","","RigobertoBaronN","","2631","Economista"
-"Ruby Thania Vega","Senado","Femenino","","Bachiller","PARTIDO CENTRO DEMOCRÁTICO","inactivo","2","","","","","",""
-"Marco Anival Avirama Avirama","Senado","Masculino","14/09/1945","","PARTIDO ALIANZA SOCIAL INDEPENDIENTE","inactivo","2","CAUCA","","","","",""
-"Bernardo Miguel Elias Vidal","Senado","Masculino","07/11/1976","","PARTIDO DE LA UNIDAD SOCIAL","inactivo","3","CÓRDOBA","","","","2142","Ingeniero civil"
-"Arleth Patricia Casado de López","Senado","Masculino","17/04/1971","","PARTIDO LIBERAL COLOMBIANO","inactivo","3","CÓRDOBA","","","","1211","Administración de Empresas"
-"Bernabe Celis Carillo","Senado","Masculino","19/09/1955","especialización","PARTIDO CAMBIO RADICAL","inactivo","3","SANTANDER","","","","2631","Economista"
-"Antonio Guerra de la Espriella","Senado","Masculino","12/12/1955","","PARTIDO CAMBIO RADICAL","inactivo","3","SUCRE","","AGuerraSenador","","2631","Economista"
-"Juan Manuel Corzo","Senado","Masculino","03/10/1961","maestría","PARTIDO CONSERVADOR COLOMBIANO","inactivo","3","NORTE DE SANTANDER","","","","2611","Abogado"
-"Olga Lucia Suarez Mira","Senado","Femenino","14/11/1965","maestría","PARTIDO CONSERVADOR COLOMBIANO","inactivo","3","ANTIOQUIA","","","","2611","Abogado"
-"Fernando Eustacio Tamayo Tamayo","Senado","Masculino","13/02/1951","especialización","PARTIDO CONSERVADOR COLOMBIANO","inactivo","3","BOYACÁ","","","","2631","Economista"
-"Antonio Jose Navarro Wolf","Senado","Masculino","09/07/1948","especialización","PARTIDO ALIANZA VERDE","inactivo","3","","","","","2142","Ingeniero sanitario"
-"Ivan  Duque Marquez","Senado","Masculino","01/08/1976","maestría","PARTIDO CENTRO DEMOCRÁTICO","inactivo","3","BOGOTÁ","","IvanDuque","http://www.ivanduque.com/","2611","Abogado"
-"Musa Abraham Besaile Fayad","Senado","Masculino","04/07/1970","especialización","PARTIDO DE LA UNIDAD SOCIAL","inactivo","4","CÓRDOBA","","","","2142","Ingeniero civil"
-"Martin Emilio Morales Diz","Senado","Masculino","22/08/1968","profesional","PARTIDO DE LA UNIDAD SOCIAL","inactivo","4","CÓRDOBA","","","","2611","Abogado"
-"Javier Tato Álvarez Montenegro","Senado","Masculino","01/01/1969","","PARTIDO LIBERAL COLOMBIANO","inactivo","4","NARIÑO","","","","2611","Abogado"
-"Álvaro Antonio Ashton Giraldo","Senado","Masculino","11/01/1956","","PARTIDO LIBERAL COLOMBIANO","inactivo","4","ATLÁNTICO","","","","2631","Economista"
-"Luis Fernando Duque García","Senado","Masculino","22/07/1952","","PARTIDO LIBERAL COLOMBIANO","inactivo","4","ANTIOQUIA","","","","2631","Economista"
-"Juan Carlos Restrepo Escobar","Senado","Masculino","21/04/1969","","PARTIDO CAMBIO RADICAL","inactivo","4","CUNDINAMARCA","","","","2611","Abogado"
-"Julio Miguel Guerra Sotto","Senado","Masculino","","","PARTIDO OPCIÓN CIUDADANA","inactivo","4","SUCRE","","","","2611","Abogado"
-"Alfredo Ramos Maya","Senado","Masculino","","","PARTIDO CENTRO DEMOCRÁTICO","inactivo","4","ANTIOQUIA","info@alfredoramos.com","","","2611","Abogado"
-"Nohora Stella Tovar Rey","Senado","Femenino","21/11/1967","diplomado","PARTIDO CENTRO DEMOCRÁTICO","inactivo","4","META","","nohoratovar","","1211","Administración de Empresas"
-"Efraín  Cepeda Sarabia","Senado","Masculino","","","PARTIDO CONSERVADOR COLOMBIANO","activo","4","ATLÁNTICO","","","","2631","Economista"
-"Carlos Felipe Mejía Mejía","Senado","Masculino","","","PARTIDO CENTRO DEMOCRÁTICO","activo","4","CALDAS","","CARLOSFMEJIA","carlosfelipemejia.com","",""
-"Manuel Guillermo Mora Jaramillo","Senado","Masculino","05/03/1964","doctorado","PARTIDO DE LA UNIDAD SOCIAL","inactivo","5","NORTE DE SANTANDER","","","","2631","Economista"
-"Milton Arlex Rodriguez Sarmiento","Senado","Masculino","14/01/1973","especialización","PARTIDO DE LA UNIDAD SOCIAL","inactivo","5","CUNDINAMARCA","","","","2611","Abogado"
-"Luis Emilio Sierra Grajales","Senado","Masculino","15/11/1960","especialización","PARTIDO CONSERVADOR COLOMBIANO","inactivo","5","CALDAS","","luisemiliosg","","2611","Abogado"
-"Daniel Alberto Cabrales Castillo","Senado","Masculino","08/06/1977","maestría","PARTIDO CENTRO DEMOCRÁTICO","inactivo","5","CÓRDOBA","","Dcabralescast","","1211","Administración de Empresas"
-"Ángel Custodio Cabrera Baez","Senado","Masculino","19/07/1956","especialización","PARTIDO DE LA UNIDAD SOCIAL","inactivo","6","BOGOTÁ","","angelccabrera","","2411","Contador"
-"Sandra Elena Villadiego Villadiego","Senado","Masculino","16/03/1968","especialización","PARTIDO DE LA UNIDAD SOCIAL","inactivo","6","BOLÍVAR","","","","1342","Administrador de centro de salud"
-"Mario Alberto Fernandez Alcocer","Senado","Masculino","23/05/1979","","PARTIDO LIBERAL COLOMBIANO","inactivo","6","SUCRE","","MarioFerAlco","","2611","Abogado"
-"Guillermo Santos Marin","Senado","Masculino","25/07/1952","","PARTIDO LIBERAL COLOMBIANO","inactivo","6","TOLIMA","","santosmarin1952","","2132","Ingeniero agrónomo "
-"Rosmery Martínez Rosales","Senado","Masculino","11/03/1963","maestría","PARTIDO CAMBIO RADICAL","inactivo","6","TOLIMA","","RosMartinezr","","2342","Docente de preescolar"
-"Jorge Hernando Pedraza Gutiérrez","Senado","Masculino","18/05/1963","especialización","PARTIDO CONSERVADOR COLOMBIANO","inactivo","6","BOYACÁ","","JHPedraza","","2611","Abogado"
-"Nerthink Mauricio Aguilar Hurtado","Senado","Masculino","10/04/1976","especialización","PARTIDO OPCIÓN CIUDADANA","inactivo","6","SANTANDER","","","","2141","Ingeniero industrial"
-"Segundo Senen Niño Avendaño","Senado","Masculino","28/05/1954","","POLO DEMOCRÁTICO ALTERNATIVO","inactivo","6","BOYACÁ","","SenadorSenen","","2351","Especialista en métodos pedagógicos"
-"Jorge Eliecer Prieto Riveros","Senado","Masculino","15/01/1949","doctorado","PARTIDO ALIANZA VERDE","inactivo","6","CASANARE","","","","2611","Abogado"
-"Everth Bustamante García","Senado","Masculino","","maestría","PARTIDO CENTRO DEMOCRÁTICO","inactivo","6","CUNDINAMARCA","","","","2611","Abogado"
-"Susana Correa Borrero","Senado","Femenino","","especialización","PARTIDO CENTRO DEMOCRÁTICO","inactivo","6","VALLE DEL CAUCA","","","","2141","Ingeniero industrial"
-"Carlos Enrique Soto Jaramillo","Senado","Masculino","16/07/1954","","PARTIDO DE LA UNIDAD SOCIAL","inactivo","7","RISARALDA","","","","",""
-"Edinson Delgado Ruiz","Senado","Masculino","20/07/1959","","PARTIDO LIBERAL COLOMBIANO","inactivo","7","VALLE DEL CAUCA","","","","2631","Economista"
-"Sofía Gaviria Correa","Senado","Masculino","18/02/1972","","PARTIDO LIBERAL COLOMBIANO","inactivo","7","ANTIOQUIA","","SOFIAGAVIRIAC","","2633","Politólogo"
-"Javier Mauricio Delgado Martínez","Senado","Masculino","30/03/1973","","PARTIDO CONSERVADOR COLOMBIANO","inactivo","7","VALLE DEL CAUCA","","","","2611","Abogado"
-"Yamina del Carmen Pestana Rojas","Senado","Femenino","24/10/1970","especialización","PARTIDO CONSERVADOR COLOMBIANO","inactivo","7","CÓRDOBA","","SenadoYaminaP","","1211","Administración de Empresas"
-"Antonio Jose Correa Jiménez","Senado","Masculino","14/06/1976","","PARTIDO OPCIÓN CIUDADANA","inactivo","7","BOLÍVAR","","_AntonioCorrea","","2212","Médico cirujano"
-"Luis Evelis Andrade Casamá","Senado","Masculino","09/05/1967","","MOVIMIENTO ALTERNATIVO INDÍGENA Y SOCIAL","inactivo","7","","","","","2611","Abogado"
-"Jorge Iván Ospina Gómez","Senado","Masculino","01/10/1965","especialización","PARTIDO ALIANZA VERDE","inactivo","7","VALLE DEL CAUCA","","JorgeIvanOspina","","2212","Médico cirujano"
-"Orlando Castañeda Serrano","Senado","Masculino","","","PARTIDO CENTRO DEMOCRÁTICO","inactivo","7","BOGOTÁ","","OrlandoCast12","","2656","Locutor"
+nombre,camara,genero,fecha_nacimiento,nivel_educativo,partido,estado,comision_constitucional,circunscripción,correo,twitter,pagina_web,codigo_dane,profesion
+Manuel Enríquez Rosero,senador2014,Masculino,24/12/1958,maestría,PARTIDO DE LA UNIDAD SOCIAL,inactivo,1,NARIÑO,oficinamanuel1@yahoo.es,,,2611,Abogado
+Juan Manuel Galan,senador2014,Masculino,29/07/1972,maestría,PARTIDO LIBERAL COLOMBIANO,inactivo,1,BOGOTÁ,,juanmanuelgalan,,2633,Politólogo
+Viviane Aleyda Morales Hoyos,senador2014,Femenino,17/03/1962,,PARTIDO LIBERAL COLOMBIANO,inactivo,1,BOGOTÁ,,,,2611,Abogado
+Horacio Serpa Uribe,senador2014,Masculino,4/1/1943,,PARTIDO LIBERAL COLOMBIANO,inactivo,1,SANTANDER,,HoracioSerpa,,2611,Abogado
+Hernan Francisco Andrade Serrano,senador2014,Masculino,7/5/1960,especialización,PARTIDO CONSERVADOR COLOMBIANO,inactivo,1,HUILA,,,,2611,Abogado
+Roberto Gerlein,senador2014,Masculino,,especialización,PARTIDO CONSERVADOR COLOMBIANO,inactivo,1,ATLÁNTICO,,,,2611,Abogado
+Claudia Nayibe López Hernandez,senador2014,Femenino,9/3/1970,doctorado,PARTIDO ALIANZA VERDE,inactivo,1,BOGOTÁ,,ClaudiaLopez,,2633,Politólogo
+Doris Clemencia Vega Quiroz,senador2014,Femenino,25/12/1959,,PARTIDO OPCIÓN CIUDADANA,inactivo,1,SANTANDER,,,,2622,Bibliotecólogo
+Jaime Alejandro Amín Hernandez,senador2014,Masculino,,especialización,PARTIDO CENTRO DEMOCRÁTICO,inactivo,1,ATLÁNTICO,,JaimeAminH,,2611,Abogado
+Alfredo Rangel Suarez,senador2014,Masculino,,maestría,PARTIDO CENTRO DEMOCRÁTICO,inactivo,1,BOGOTÁ,,,,2631,Economista
+William Jimmy Chamorro,senador2014,Masculino,7/12/1963,Doctorado,PARTIDO DE LA UNIDAD SOCIAL,inactivo,2,VALLE DEL CAUCA,,,https://jimmychamorro.com/,2114,Geofísico
+Oscar Mauricio Lizcano,senador2014,Masculino,12/8/1976,maestría,PARTIDO DE LA UNIDAD SOCIAL,inactivo,2,CALDAS,,MauricioLizcano,,2611,Abogado
+Carlos Fernando Galán Pachon,senador2014,Masculino,4/6/1977,maestría,PARTIDO CAMBIO RADICAL,inactivo,2,BOGOTÁ,,CarlosFGalan,,2642,Periodista
+Teresita Garcia Romero,senador2014,Femenino,11/11/1956,especialización,PARTIDO OPCIÓN CIUDADANA,inactivo,2,SUCRE,,teregarsenado,,2511,Ingeniero de sistemas
+León Rigoberto Barón Neira,senador2014,Masculino,,especialización,PARTIDO CENTRO DEMOCRÁTICO,inactivo,2,BOYACÁ,,RigobertoBaronN,,2631,Economista
+Ruby Thania Vega,senador2014,Femenino,,Bachiller,PARTIDO CENTRO DEMOCRÁTICO,inactivo,2,,,,,,
+Marco Anival Avirama Avirama,senador2014,Masculino,14/09/1945,,PARTIDO ALIANZA SOCIAL INDEPENDIENTE,inactivo,2,CAUCA,,,,,
+Bernardo Miguel Elias Vidal,senador2014,Masculino,7/11/1976,,PARTIDO DE LA UNIDAD SOCIAL,inactivo,3,CÓRDOBA,,,,2142,Ingeniero civil
+Arleth Patricia Casado de López,senador2014,Masculino,17/04/1971,,PARTIDO LIBERAL COLOMBIANO,inactivo,3,CÓRDOBA,,,,1211,Administración de Empresas
+Bernabe Celis Carillo,senador2014,Masculino,19/09/1955,especialización,PARTIDO CAMBIO RADICAL,inactivo,3,SANTANDER,,,,2631,Economista
+Antonio Guerra de la Espriella,senador2014,Masculino,12/12/1955,,PARTIDO CAMBIO RADICAL,inactivo,3,SUCRE,,AGuerraSenador,,2631,Economista
+Juan Manuel Corzo,senador2014,Masculino,3/10/1961,maestría,PARTIDO CONSERVADOR COLOMBIANO,inactivo,3,NORTE DE SANTANDER,,,,2611,Abogado
+Olga Lucia Suarez Mira,senador2014,Femenino,14/11/1965,maestría,PARTIDO CONSERVADOR COLOMBIANO,inactivo,3,ANTIOQUIA,,,,2611,Abogado
+Fernando Eustacio Tamayo Tamayo,senador2014,Masculino,13/02/1951,especialización,PARTIDO CONSERVADOR COLOMBIANO,inactivo,3,BOYACÁ,,,,2631,Economista
+Antonio Jose Navarro Wolf,senador2014,Masculino,9/7/1948,especialización,PARTIDO ALIANZA VERDE,inactivo,3,,,,,2142,Ingeniero sanitario
+Ivan  Duque Marquez,senador2014,Masculino,1/8/1976,maestría,PARTIDO CENTRO DEMOCRÁTICO,inactivo,3,BOGOTÁ,,IvanDuque,http://www.ivanduque.com/,2611,Abogado
+Musa Abraham Besaile Fayad,senador2014,Masculino,4/7/1970,especialización,PARTIDO DE LA UNIDAD SOCIAL,inactivo,4,CÓRDOBA,,,,2142,Ingeniero civil
+Martin Emilio Morales Diz,senador2014,Masculino,22/08/1968,profesional,PARTIDO DE LA UNIDAD SOCIAL,inactivo,4,CÓRDOBA,,,,2611,Abogado
+Javier Tato Álvarez Montenegro,senador2014,Masculino,1/1/1969,,PARTIDO LIBERAL COLOMBIANO,inactivo,4,NARIÑO,,,,2611,Abogado
+Álvaro Antonio Ashton Giraldo,senador2014,Masculino,11/1/1956,,PARTIDO LIBERAL COLOMBIANO,inactivo,4,ATLÁNTICO,,,,2631,Economista
+Luis Fernando Duque García,senador2014,Masculino,22/07/1952,,PARTIDO LIBERAL COLOMBIANO,inactivo,4,ANTIOQUIA,,,,2631,Economista
+Juan Carlos Restrepo Escobar,senador2014,Masculino,21/04/1969,,PARTIDO CAMBIO RADICAL,inactivo,4,CUNDINAMARCA,,,,2611,Abogado
+Julio Miguel Guerra Sotto,senador2014,Masculino,,,PARTIDO OPCIÓN CIUDADANA,inactivo,4,SUCRE,,,,2611,Abogado
+Alfredo Ramos Maya,senador2014,Masculino,,,PARTIDO CENTRO DEMOCRÁTICO,inactivo,4,ANTIOQUIA,info@alfredoramos.com,,,2611,Abogado
+Nohora Stella Tovar Rey,senador2014,Femenino,21/11/1967,diplomado,PARTIDO CENTRO DEMOCRÁTICO,inactivo,4,META,,nohoratovar,,1211,Administración de Empresas
+Efraín  Cepeda Sarabia,senador2014,Masculino,,,PARTIDO CONSERVADOR COLOMBIANO,activo,4,ATLÁNTICO,,,,2631,Economista
+Carlos Felipe Mejía Mejía,senador2014,Masculino,,,PARTIDO CENTRO DEMOCRÁTICO,activo,4,CALDAS,,CARLOSFMEJIA,carlosfelipemejia.com,,
+Manuel Guillermo Mora Jaramillo,senador2014,Masculino,5/3/1964,doctorado,PARTIDO DE LA UNIDAD SOCIAL,inactivo,5,NORTE DE SANTANDER,,,,2631,Economista
+Milton Arlex Rodriguez Sarmiento,senador2014,Masculino,14/01/1973,especialización,PARTIDO DE LA UNIDAD SOCIAL,inactivo,5,CUNDINAMARCA,,,,2611,Abogado
+Luis Emilio Sierra Grajales,senador2014,Masculino,15/11/1960,especialización,PARTIDO CONSERVADOR COLOMBIANO,inactivo,5,CALDAS,,luisemiliosg,,2611,Abogado
+Daniel Alberto Cabrales Castillo,senador2014,Masculino,8/6/1977,maestría,PARTIDO CENTRO DEMOCRÁTICO,inactivo,5,CÓRDOBA,,Dcabralescast,,1211,Administración de Empresas
+Ángel Custodio Cabrera Baez,senador2014,Masculino,19/07/1956,especialización,PARTIDO DE LA UNIDAD SOCIAL,inactivo,6,BOGOTÁ,,angelccabrera,,2411,Contador
+Sandra Elena Villadiego Villadiego,senador2014,Masculino,16/03/1968,especialización,PARTIDO DE LA UNIDAD SOCIAL,inactivo,6,BOLÍVAR,,,,1342,Administrador de centro de salud
+Mario Alberto Fernandez Alcocer,senador2014,Masculino,23/05/1979,,PARTIDO LIBERAL COLOMBIANO,inactivo,6,SUCRE,,MarioFerAlco,,2611,Abogado
+Guillermo Santos Marin,senador2014,Masculino,25/07/1952,,PARTIDO LIBERAL COLOMBIANO,inactivo,6,TOLIMA,,santosmarin1952,,2132,Ingeniero agrónomo 
+Rosmery Martínez Rosales,senador2014,Masculino,11/3/1963,maestría,PARTIDO CAMBIO RADICAL,inactivo,6,TOLIMA,,RosMartinezr,,2342,Docente de preescolar
+Jorge Hernando Pedraza Gutiérrez,senador2014,Masculino,18/05/1963,especialización,PARTIDO CONSERVADOR COLOMBIANO,inactivo,6,BOYACÁ,,JHPedraza,,2611,Abogado
+Nerthink Mauricio Aguilar Hurtado,senador2014,Masculino,10/4/1976,especialización,PARTIDO OPCIÓN CIUDADANA,inactivo,6,SANTANDER,,,,2141,Ingeniero industrial
+Segundo Senen Niño Avendaño,senador2014,Masculino,28/05/1954,,POLO DEMOCRÁTICO ALTERNATIVO,inactivo,6,BOYACÁ,,SenadorSenen,,2351,Especialista en métodos pedagógicos
+Jorge Eliecer Prieto Riveros,senador2014,Masculino,15/01/1949,doctorado,PARTIDO ALIANZA VERDE,inactivo,6,CASANARE,,,,2611,Abogado
+Everth Bustamante García,senador2014,Masculino,,maestría,PARTIDO CENTRO DEMOCRÁTICO,inactivo,6,CUNDINAMARCA,,,,2611,Abogado
+Susana Correa Borrero,senador2014,Femenino,,especialización,PARTIDO CENTRO DEMOCRÁTICO,inactivo,6,VALLE DEL CAUCA,,,,2141,Ingeniero industrial
+Carlos Enrique Soto Jaramillo,senador2014,Masculino,16/07/1954,,PARTIDO DE LA UNIDAD SOCIAL,inactivo,7,RISARALDA,,,,,
+Edinson Delgado Ruiz,senador2014,Masculino,20/07/1959,,PARTIDO LIBERAL COLOMBIANO,inactivo,7,VALLE DEL CAUCA,,,,2631,Economista
+Sofía Gaviria Correa,senador2014,Masculino,18/02/1972,,PARTIDO LIBERAL COLOMBIANO,inactivo,7,ANTIOQUIA,,SOFIAGAVIRIAC,,2633,Politólogo
+Javier Mauricio Delgado Martínez,senador2014,Masculino,30/03/1973,,PARTIDO CONSERVADOR COLOMBIANO,inactivo,7,VALLE DEL CAUCA,,,,2611,Abogado
+Yamina del Carmen Pestana Rojas,senador2014,Femenino,24/10/1970,especialización,PARTIDO CONSERVADOR COLOMBIANO,inactivo,7,CÓRDOBA,,SenadoYaminaP,,1211,Administración de Empresas
+Antonio Jose Correa Jiménez,senador2014,Masculino,14/06/1976,,PARTIDO OPCIÓN CIUDADANA,inactivo,7,BOLÍVAR,,_AntonioCorrea,,2212,Médico cirujano
+Luis Evelis Andrade Casamá,senador2014,Masculino,9/5/1967,,MOVIMIENTO ALTERNATIVO INDÍGENA Y SOCIAL,inactivo,7,,,,,2611,Abogado
+Jorge Iván Ospina Gómez,senador2014,Masculino,1/10/1965,especialización,PARTIDO ALIANZA VERDE,inactivo,7,VALLE DEL CAUCA,,JorgeIvanOspina,,2212,Médico cirujano
+Orlando Castañeda Serrano,senador2014,Masculino,,,PARTIDO CENTRO DEMOCRÁTICO,inactivo,7,BOGOTÁ,,OrlandoCast12,,2656,Locutor
